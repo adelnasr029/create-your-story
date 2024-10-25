@@ -2,6 +2,7 @@
 
 **StoryBooks** is a full-stack web application that allows users to create, manage, and share personal stories. Registered users can create public or private stories, view stories shared by other users, and manage their own stories with editing and deletion options.
 
+![story-books](https://github.com/user-attachments/assets/b6471902-c675-41aa-9dd4-5c5504d393b6)
 
 ## About the Project
 
